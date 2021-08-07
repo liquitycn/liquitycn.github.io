@@ -25,7 +25,7 @@ var __wpo = {
       "/npm.intl.8469dd4c6360e0c95929.chunk.js",
       "/5.54eb700e776195cb01bf.chunk.js",
       "/6.fb4e23043e6632691372.chunk.js",
-      "/main.58b03769d426a236d1e5.chunk.js",
+      "/main.42b636cb8de0cd672ef2.chunk.js",
       "/npm.animated-number-react.837a8c5bf71ae2784592.chunk.js",
       "/npm.authereum.0f7b6cfe51eb26d91969.chunk.js",
       "/npm.ethersproject.bdcafde1b9dfd2e4ba16.chunk.js",
@@ -68,7 +68,7 @@ var __wpo = {
     "32a65f4484cf2b72f0fed7b5f0edd02884d42c47": "/npm.intl.8469dd4c6360e0c95929.chunk.js",
     "02e6de368b41163eef76bb5f00da75d2c35f1d00": "/5.54eb700e776195cb01bf.chunk.js",
     "7120ccd88a0873ad6d46dccf166a2793c0d00c0e": "/6.fb4e23043e6632691372.chunk.js",
-    "f2b38d15ba0a505be78c767faa4c241d62aeb4ef": "/main.58b03769d426a236d1e5.chunk.js",
+    "ec4d323078ba03aee1b618642cbf6c9b118890a8": "/main.42b636cb8de0cd672ef2.chunk.js",
     "b19f93bf9cb051119b5c195b3641a3dde19c8439": "/npm.animated-number-react.837a8c5bf71ae2784592.chunk.js",
     "4e82f842c6684da062a298d467e261930ed4b8b5": "/npm.authereum.0f7b6cfe51eb26d91969.chunk.js",
     "c999526fc1c7129ee4add672630bd76f415d3502": "/npm.ethersproject.bdcafde1b9dfd2e4ba16.chunk.js",
@@ -87,11 +87,11 @@ var __wpo = {
     "534cf5a1c368d8d1a5120e091d9c1f21e2074f31": "/23.61b69e8fd34e35c48d0e.chunk.js",
     "a5b581472a41d7b26993571b49497a71282d6d74": "/24.5aa051e0bd769337bc37.chunk.js",
     "0bda8775dee5793f696be6ac6fa1c001fc6e9471": "/25.8e41d564609e6ddc9ac0.chunk.js",
-    "c849e5fde2c6ed2f1dae54f1a10ab229b92e1394": "/"
+    "8d5b5d8fa403d6c9675cc5d285e126b19b9f41b1": "/"
   },
   "strategy": "changed",
   "responseStrategy": "network-first",
-  "version": "2021/8/7 下午12:02:41",
+  "version": "2021/8/7 下午12:12:06",
   "name": "webpack-offline",
   "pluginVersion": "5.0.6",
   "relativePaths": false
